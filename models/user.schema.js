@@ -10,3 +10,5 @@ const userSchema = mongoose.Schema(
         }
     }
 )
+
+export default userSchema;
